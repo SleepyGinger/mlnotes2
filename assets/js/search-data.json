@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Thesaurus",
-            "content": "a . &#39;ssdf&#39; . Here is where I would talk . [[alert:This is an alert box]] . [[alert:box][Danger ahead]] . [[info:This is info box]] . [[info:box][This is for your information]] . [[warning:box][You have been warned]] . [[important:box][This is important]] .",
+            "content": "# Title &gt; This is the new title - toc:true- branch: master - badges: true - comments: true - author: Dan - categories: [fastpages, jupyter] . File &#34;&lt;ipython-input-7-60fd5029afc1&gt;&#34;, line 2 &gt; This is the new title ^ SyntaxError: invalid syntax . #Show import pandas as pd . 1-1 . 0 . a . &#39;ssdf&#39; . Here is where I would talk . [[alert:This is an alert box]] . [[alert:box][Danger ahead]] . [[info:This is info box]] . [[info:box][This is for your information]] . [[warning:box][You have been warned]] . [[important:box][This is important]] .",
             "url": "https://sleepyginger.github.io/mlnotes2/2020/02/20/test1.html",
             "relUrl": "/2020/02/20/test1.html",
             "date": " • Feb 20, 2020"
